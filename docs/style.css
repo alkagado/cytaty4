@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+  background-color: DeepSkyBlue;
+  color: white;
+  font-family: "Times", serif;
+  
+}
+button {
+  background-color: DeepSkyBlue;
+  font-size: 15px;
+  margin: 10px;
+  width: 200px;
+  color: white;
+  underline: none;
+  border-radius: 10px;
+  border-color: white;
+}
+a {
+  color: white;
+  text-decoration: none;
+
+}
+header {
+  margin: 100px;
+}
+
+.box {
+  margin: 50px;
+}
+
